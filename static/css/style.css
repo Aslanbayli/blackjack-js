@@ -3,7 +3,7 @@
   width: 75%;
   margin: 0px auto;
   text-align: center;
-  background: url("/static/img/background.jpg");
+  background: url("../img/background.jpg");
   background-size: cover;
   color: white;
 }
