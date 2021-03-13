@@ -8,7 +8,7 @@ This is a simple Blackjack game made without using any additional frameworks. Yo
 * get ready for an ultimate battle against computer
 * enjoy the game
 
-![demo image](/demo/ss_demo.png)
+
 
 ## How to use
 There are three buttons available for your choice.
