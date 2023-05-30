@@ -17,4 +17,4 @@ There are three buttons available for your choice.
 * Depending on if you win, lose, or draw you will hear a different sound and the socreboard will be updated.
 * If you want to clear the table and start another round press **"deal"**
 
-![blackjack-js](https://github.com/Aslanbayli/blackjack-js/assets/48028559/70665cef-f4a1-454c-98cd-073adccd7a99)
+![ezgif com-crop](https://github.com/Aslanbayli/blackjack-js/assets/48028559/d99fdbbd-7690-40db-baf8-ba5fbc9038e8)
