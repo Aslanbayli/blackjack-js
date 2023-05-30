@@ -1,16 +1,15 @@
 # Blackjack in vanilla javascript
-This is a simple Blackjack game made without using any additional frameworks. You play against the computer and can keep track of your progress via scoreboard. There are instructions below on how to run and how ro edit if needed. 
+This is a simple Blackjack game made without using any additional frameworks. You play against the computer and can keep track of your progress via scoreboard. 
 
-## How to run
-* take a deep breath
+## How to Run
 * clone the repository
-* open the index.html file in a browser of your choice
+* open the `index.html` file in a browser of your choice
 * get ready for an ultimate battle against computer
 * enjoy the game
 
 ![demo1](/demo/ss_demo.png)
 
-## How to use
+## How to Use
 There are three buttons available for your choice.
 * You take your turn by pressing **"hit"** 
 * When you think you are done, you press **"stand"**
