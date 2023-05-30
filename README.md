@@ -7,7 +7,7 @@ This is a simple Blackjack game made without using any additional frameworks. Yo
 * get ready for an ultimate battle against computer
 * enjoy the game
 
-![image](https://github.com/Aslanbayli/blackjack-js/assets/48028559/2100bbac-2a37-479b-94f9-bb3d8f3e7e56)
+![image](https://github.com/Aslanbayli/blackjack-js/assets/48028559/efc14bee-0f96-40eb-bb89-376a5bbaf90d)
 
 ## How to Use
 There are three buttons available for your choice.
